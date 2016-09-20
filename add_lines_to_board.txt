@@ -1,0 +1,16 @@
+##############################################################
+
+Riots.name=Riots - 3.3v 8mHz
+
+Riots.upload.protocol=arduino
+Riots.upload.maximum_size=28544
+Riots.upload.speed=38400
+Riots.upload.tool=avrdude
+
+Riots.build.mcu=atmega328p
+Riots.build.f_cpu=8000000L
+Riots.build.core=arduino
+Riots.build.variant=standard
+Riots.build.board=AVR_RIOTS
+
+##############################################################
